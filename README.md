@@ -69,7 +69,6 @@ The project is open to contributions. See the [Contribution Guidelines](docs/CON
  - [SwiftUI CachedAsyncImage](https://github.com/lorenzofiamingo/swiftui-cached-async-image), Lorenzo Fiamingo
  - [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer), Vikram Kriplaney
  - [CircularProgressSwiftUI](https://github.com/ArnavMotwani/CircularProgressSwiftUI), Arnav Motwani
- - [Sparkle](https://github.com/sparkle-project/Sparkle) - app updates
  - [Appcasks](https://github.com/App-Fair/appcasks/) ([App Fair](https://github.com/App-Fair/App) project) - app icons
  - [pinentry-mac](https://github.com/GPGTools/pinentry), GPGTools - for secure admin password retrieval
 

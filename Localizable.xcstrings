@@ -274,7 +274,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az Applite névjegye"
+            "value" : "Az Appbrew névjegye"
           }
         }
       }
@@ -429,6 +429,23 @@
         }
       }
     },
+    "Appbrew" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appbrew"
+          }
+        }
+      }
+    },
     "Appdir" : {
       "localizations" : {
         "fr" : {
@@ -494,20 +511,7 @@
       }
     },
     "Applite" : {
-      "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ""
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Applite"
-          }
-        }
-      }
+
     },
     "Apps with few downloads are hidden, consider turning of this filter" : {
       "localizations" : {
@@ -574,6 +578,7 @@
       }
     },
     "Automatically check for updates" : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -590,6 +595,7 @@
       }
     },
     "Automatically download updates" : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -785,6 +791,7 @@
       }
     },
     "Check for Updates..." : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -900,6 +907,7 @@
       }
     },
     "Current app version: %@ (%@)" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -2581,21 +2589,25 @@
         }
       }
     },
-    "Uninstall Applite..." : {
+    "Uninstall Appbrew..." : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Désinstaller Applite..."
+            "value" : "Désinstaller Appbrew..."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az Applite törlése..."
+            "value" : "Az Appbrew törlése..."
           }
         }
       }
+    },
+    "Uninstall Applite..." : {
+
     },
     "Uninstall Completely" : {
       "localizations" : {
@@ -2631,6 +2643,7 @@
       }
     },
     "Update" : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr" : {
           "stringUnit" : {
