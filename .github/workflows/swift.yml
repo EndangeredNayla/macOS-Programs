@@ -12,11 +12,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: swift build -v
-    - name: Run tests
-      run: swift test -v
+      run: xcodebuild -scheme Appbrew -configuration Release SYMROOT="out" 
     - uses: actions/upload-artifact@v4.3.1
       with:
         # Artifact name
         name: AppBrew-macOS.zip
-        path: /Users/runner/work/Dolphin-MPN/Dolphin-MPN/build/debug/
+        path: /Users/runner/work/macOS-Programs/macOS-Programs/out/Release/
